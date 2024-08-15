@@ -1,0 +1,78 @@
+/* Thiết lập một số kiểu cơ bản cho toàn bộ trang */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+/* Định kiểu cho phần chứa form */
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: red;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Định kiểu cho tiêu đề */
+h1 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Định kiểu cho form-control và các thành phần bên trong */
+.form-control {
+    margin-bottom: 15px;
+    position: relative;
+}
+
+.form-control input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-control input:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+/* Định kiểu cho button */
+.btn-submit {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.btn-submit:hover {
+    background-color: #0056b3;
+}
+
+/* Định kiểu cho liên kết trở về */
+.signup-link {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.signup-link a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.signup-link a:hover {
+    text-decoration: underline;
+}
+
+/* Định kiểu cho thông báo lỗi hoặc tin nhắn nhỏ */
+.form-control small {
+    color: red;
+    display: none;
+}
