@@ -134,3 +134,54 @@ Database
 ```bash
 git clone https://github.com/DuyHoan23/Stationery-Store-Management-System.git
 cd Stationery-Store-Management-System
+```
+
+### Configure database
+
+- Create a database
+
+- Import the provided SQL file
+
+- Update database credentials in configuration files
+
+### Run the project
+
+- Configure local server (XAMPP / WAMP)
+
+- Access the application via browser
+
+## 📌 Purpose of This Project
+- Apply MVC architecture in a real-world project
+
+- Practice full CRUD operations
+
+- Integrate third-party payment gateway
+
+- Design a complete management system
+
+- Demonstrate teamwork and Git workflow skills
+
+## 🚧 Future Improvements
+- JWT-based authentication
+
+- Product reviews and ratings
+
+- Admin dashboard with charts
+
+- Email notifications
+
+- Enhanced search and filtering
+
+## Author 
+Hoan Duy | Information Technology Engineer
+
+GitHub: https://github.com/DuyHoan23
+
+Email: hoan3798@gmail.com
+
+## License
+
+MIT License
+
+
+
