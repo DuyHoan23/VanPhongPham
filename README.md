@@ -106,6 +106,7 @@ Database
 ## 🛠️ Technologies Used
 
 ### Backend
+- PHP
 - MVC Architecture
 - RESTful APIs
 - Database ORM / DAO pattern
