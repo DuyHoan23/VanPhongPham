@@ -1,4 +1,4 @@
-# 🏬 Stationery Store Management System (CuaHangVanPhongPham) 
+# 🏬 Stationery Store Management System (Cửa hàng văn phòng phẩm) 
 
 A full-featured **Stationery Store Website** built with the **MVC architecture**, providing both **customer-facing e-commerce features** and a **management/admin system**.  
 This project demonstrates practical experience in **web application development**, **database design**, **API integration**, and **real-world business workflows**.
