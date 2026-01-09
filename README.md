@@ -132,5 +132,5 @@ Database
 
 ### Clone the repository
 ```bash
-git clone https://github.com/DuyHoan23/VanPhongPham.git
-cd VanPhongPham
+git clone https://github.com/DuyHoan23/Stationery-Store-Management-System.git
+cd Stationery-Store-Management-System
